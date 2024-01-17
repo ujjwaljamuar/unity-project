@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: StringExampleTable Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: StringExampleTable
+  m_TableCollectionNameGuidString: 839ed057aa9a35a4d9c939631a3d1bd7
+  m_Entries:
+  - m_Id: 337864163328
+    m_Key: New Entry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 346638749401088
+    m_Key: Password
+    m_Metadata:
+      m_Items: []
+  - m_Id: 351895537713152
+    m_Key: Enter Text...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 353106366169088
+    m_Key: Login
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 5079852068251107352
+  references:
+    version: 2
+    RefIds:
+    - rid: 5079852068251107352
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1703575697580

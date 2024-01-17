@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Chinese (Simplified) (zh-Hans)
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Chinese (Simplified) (zh-Hans)
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 39880cd3f4b244d4b825ce9b257e3f17
+  m_SerializeEntries:
+  - m_GUID: 92a42386287142945aff5c3ce0c16929
+    m_Address: "Learn Basic Greetings in Mandarin Chinese_ Hello, How Are You, Thank
+      you \u4E2D\u6587\u6253\u62DB\u547C\u2764 LearnChineseWithEmma"
+    m_ReadOnly: 1
+    m_SerializedLabels:
+    - Locale-zh-Hans
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 43bb7cccbb7074045aa85b9ea8fe7a91, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 55d648b5fe4aaba429af211e070bd63f, type: 2}
+    - {fileID: 11400000, guid: e355f6ce24f8b3840be15e8017506454, type: 2}
